@@ -44,6 +44,9 @@ body{
     border-radius: 5px;
 
 }
+.search-box button:active{
+    background-color: #7158e0;
+}
 .result{
     position: relative;
 }
